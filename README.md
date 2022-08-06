@@ -12,3 +12,4 @@ gobuster dir -u http://[Your_Target_IP] -w /usr/share/wordlists/dirbuster/direct
 ## Χρήσιμα Sites 
 - [Pegasus vs Predator](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
 - https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
+- https://github.com/aels/subdirectories-discover
