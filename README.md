@@ -6,6 +6,7 @@
 
 ## Χρήσιμα Εργαλεία
 - dir,gobuster 
+- enum4linux -a
 > dirb http://[Your_Target_IP]# </br>
 gobuster dir -u http://[Your_Target_IP] -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt
 
