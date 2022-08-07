@@ -15,3 +15,4 @@ gobuster dir -u http://[Your_Target_IP] -w /usr/share/wordlists/dirbuster/direct
 - https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources
 - https://github.com/aels/subdirectories-discover
 - https://systemweakness.com/basic-pentesting-tryhackme-walkthrough-b27fbe4b3dd
+- https://www.wigle.net/
