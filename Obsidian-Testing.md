@@ -5,7 +5,8 @@
 καθως και την σύνδεση μεταξύ αρχείων
 
 
-[Readme](README.md)
+[Readme](README.md) tha'ts a link  by github
+[[README]] that's a link by obsidian
 > test
 
 ```bash
