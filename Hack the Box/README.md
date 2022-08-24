@@ -4,8 +4,7 @@
 sudo openvpn Documents/starting_point_ConstantMan.ovpn
 ```
 > port 23/tcp : telnet σύνδεση ως root χωρίς να απαιτείται password
--
- 
+
  
  
  
