@@ -4,6 +4,8 @@
 - [TryHackMe](https://github.com/ConstantMan/CyberSecurity/tree/main/TryHackMe)
 
 
+NOMIZO PETIXE
+
 ## Χρήσιμα Εργαλεία
 
 - dir,gobuster 
