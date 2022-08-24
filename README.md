@@ -5,6 +5,8 @@
 
 GITHUB SYNC
 
+without .obsidian
+
 ## Χρήσιμα Εργαλεία
 
 - dir,gobuster 
