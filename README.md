@@ -5,7 +5,7 @@
 
 
 ## Χρήσιμα Εργαλεία
-## Ας τεσταρω το git 
+
 - dir,gobuster 
 - enum4linux -a
 > dirb http://[Your_Target_IP]# </br>
