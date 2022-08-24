@@ -4,9 +4,16 @@
 
 καθως και την σύνδεση μεταξύ αρχείων
 
+[README](README.md)
 
-[Readme](README.md) tha'ts a link  by github
-[[README]] that's a link by obsidian
+#disck
+#terminal
+
+#8888
+$hh
+
+
+that's a link by obsidian
 > test
 
 ```bash
