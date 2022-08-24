@@ -4,7 +4,7 @@
 - [TryHackMe](https://github.com/ConstantMan/CyberSecurity/tree/main/TryHackMe)
 
 Testing to se gitignore
-Testing with plguinh
+
 
 ## Χρήσιμα Εργαλεία
 
