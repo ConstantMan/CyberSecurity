@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "16ca97fb02505945",
+        "id": "7112b8e6c19cb375",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -128,18 +126,27 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ad11da8530441c17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455
   },
-  "active": "16ca97fb02505945",
+  "active": "c823b20b088d9d21",
   "lastOpenFiles": [
-    "Obsidian-Testing.md",
+    "Untitled Kanban.md",
     "README.md",
+    "Obsidian-Testing.md",
     "().md",
     "TryHackMe/Rooms/Basic Pentesting.md"
   ]
