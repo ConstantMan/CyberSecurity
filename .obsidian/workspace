@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a238de196b797a1a",
+        "id": "e00b8603da81355e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "c823b20b088d9d21",
+            "id": "9b2c8c532b0aeba8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -136,15 +136,17 @@
     "direction": "horizontal",
     "width": 455
   },
-  "active": "18a5be7e172add7a",
+  "active": "e00b8603da81355e",
   "lastOpenFiles": [
     "Untitled Kanban.md",
-    "2022-08-24 DSDSAASASD.md",
-    "2022-08-03 sh.md",
-    "25-08-2022.md",
+    "Untitled.md",
+    "02-09-2022.md",
+    "01-09-2022.md",
+    "2022-08-25 ADDDDDDDDDDD.md",
+    "2022-08-26 TESTING.md",
     "README.md",
-    "Obsidian-Testing.md",
-    "().md",
-    "TryHackMe/Rooms/Basic Pentesting.md"
+    "2022-08-25 TEST.md",
+    "2022-08-24 DSDSAASASD.md",
+    "2022-08-03 sh.md"
   ]
 }
