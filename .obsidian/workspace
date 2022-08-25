@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7112b8e6c19cb375",
+        "id": "a238de196b797a1a",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Untitled Kanban.md"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "README.md"
               }
             }
           },
@@ -126,14 +128,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "ad11da8530441c17",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
@@ -142,9 +136,12 @@
     "direction": "horizontal",
     "width": 455
   },
-  "active": "c823b20b088d9d21",
+  "active": "18a5be7e172add7a",
   "lastOpenFiles": [
     "Untitled Kanban.md",
+    "2022-08-24 DSDSAASASD.md",
+    "2022-08-03 sh.md",
+    "25-08-2022.md",
     "README.md",
     "Obsidian-Testing.md",
     "().md",
