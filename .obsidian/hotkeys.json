@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-checklist-plugin:refresh-checklist-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

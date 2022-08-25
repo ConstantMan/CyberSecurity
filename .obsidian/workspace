@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e00b8603da81355e",
+        "id": "7eb116f24ecf68ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo/to",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,25 +124,49 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "797d33cf96f26675",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "5628e07c26ce9104",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ec3d8961a4c2951",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 455
+    "width": 390
   },
-  "active": "e00b8603da81355e",
+  "active": "9b2c8c532b0aeba8",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Untitled.md",
-    "02-09-2022.md",
-    "01-09-2022.md",
-    "2022-08-25 ADDDDDDDDDDD.md",
-    "2022-08-26 TESTING.md",
     "README.md",
-    "2022-08-25 TEST.md",
-    "2022-08-24 DSDSAASASD.md",
-    "2022-08-03 sh.md"
+    "test.md",
+    "Day Planners/Day Planner-20220825.md",
+    "Untitled Kanban.md",
+    "TryHackMe/Rooms/OhSINT.md",
+    "Hack the Box/Machines/Timelapse.md",
+    "TryHackMe/Rooms/RootMe.md",
+    "TryHackMe/Rooms/Pickle Rick.md",
+    "TryHackMe/Rooms/Basic Pentesting.md",
+    "Untitled.md"
   ]
 }
